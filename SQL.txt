@@ -1,1 +1,1 @@
-Select * from TETS
+Select count(*) from TETS
